@@ -8,7 +8,7 @@ A camera feed is passed through a **YOLOv3** object detector trained on the
 (e.g. *"top left cup"*) are converted to speech using the **Google
 Text-to-Speech (gTTS)** API and played back to the user through headphones.
 
-
+## Project by
 - Nisha C 
 
 

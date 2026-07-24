@@ -1,0 +1,10 @@
+numpy>=1.21.0
+opencv-python>=4.5.0
+gTTS>=2.3.0
+SpeechRecognition>=3.10.0
+jupyter>=1.0.0
+matplotlib>=3.5.0
+
+# Raspberry Pi only (preinstalled on Raspberry Pi OS) — not needed to run
+# detect_and_speak.py or the notebook on a regular laptop:
+# RPi.GPIO>=0.7.1

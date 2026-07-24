@@ -1,0 +1,26 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Model weights (large binary file — download separately, see models/README.md)
+# Note: yolov3.cfg (architecture) and coco.names (labels) ARE committed —
+# only the trained weights file is excluded.
+models/*.weights
+
+# Generated audio / outputs
+*.mp3
+output/
+
+# OS/editor junk
+.DS_Store
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
